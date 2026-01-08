@@ -1,0 +1,5 @@
+monitor_folder=C:/Users/edith/Downloads/__Capcut Drafts/
+output_folder=C:/Users/edith/Downloads/
+file_extension=.mp4
+enable_sound=true
+enable_preview=true

@@ -1,0 +1,16 @@
+{
+    "monitor_folder": "C:\\Users\\edith\\Downloads\\__Capcut Drafts\\CapCut Drafts",
+    "output_folder": "C:\\Users\\edith\\Downloads",
+    "file_extension": ".mp4",
+    "enable_sound": true,
+    "enable_preview": true,
+    "auto_start": false,
+    "minimize_to_tray": false,
+    "show_notifications": true,
+    "retry_attempts": 100,
+    "retry_delay": 100,
+    "log_file": "capcut_grabber.log",
+    "enable_logging": true,
+    "theme": "dark",
+    "window_geometry": "800x650+100+100"
+}
